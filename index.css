@@ -1,0 +1,61 @@
+
+
+body {
+  margin: 0%;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-width: 300px;
+}
+#input-btn {
+  color: white;
+  margin-top: 5px;
+  background-color: #1e65c2da;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border-color: white;
+  border: 1px solid;
+}
+
+#input-el {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 6px;
+  border: 1px solid #1e65c2;
+  border-radius: 10px;
+  height: 35px;
+}
+
+ul {
+  list-style: none;
+  padding: 0%;
+  margin-top: 25px;
+  align-items: inherit;
+}
+
+li {
+  margin-top: 5px;
+}
+
+a {
+  color: #1e65c2;
+}
+
+#del-btn {
+  color: #ffffff;
+  margin-top: 5px;
+  background-color: rgba(250, 31, 31, 0.774);
+  padding: 10px 20px;
+  border: 1px solid;
+  border-radius: 10px;
+  border-color: #d11a1a;
+}
+
+#save-btn {
+  color: white;
+  margin-top: 5px;
+  background-color: #34961b;
+  padding: 10px 20px;
+  border-radius: 10px;
+  border-color: white;
+  border: 1px solid;
+}
